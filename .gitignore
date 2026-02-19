@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Vector store (large binary files — regenerate locally)
+vector_store/
+
+# Data / uploaded docs
+data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Benchmark output
+scripts/benchmark_results.json
+
+# OS
+.DS_Store
+Thumbs.db
