@@ -98,8 +98,8 @@ rag-document-assistant/
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/rag-document-assistant.git
-cd rag-document-assistant
+git clone https://github.com/iamanimesh11/vaultmind-docs-ai.git
+cd vaultmind-docs-ai
 ```
 
 ### 3. Create a Virtual Environment
